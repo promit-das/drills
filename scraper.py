@@ -1,3 +1,9 @@
+"""
+Lightweight web scraping helpers.
+
+Fetch page text and anchor links using requests + BeautifulSoup.
+"""
+
 from bs4 import BeautifulSoup
 import requests
 

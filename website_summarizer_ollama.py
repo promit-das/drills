@@ -1,5 +1,5 @@
 """
-Website summarizer using Ollama instead of OpenAI.
+Website summarizer using Ollama and the local scraper helpers.
 """
 
 from openai import OpenAI

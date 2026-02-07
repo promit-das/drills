@@ -1,6 +1,6 @@
 """
-Tool that takes a line of code (or a prompt about code) as input
-and responds with an explanation.
+Gradio UI that takes a line of code (or a prompt about code) as input
+and streams an explanation using OpenAI or Ollama.
 """
 
 import os

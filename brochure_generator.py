@@ -1,3 +1,10 @@
+"""
+Generate a short company brochure from a website.
+
+Scrapes the landing page plus relevant pages, uses OpenAI to choose links,
+then streams a brochure to stdout.
+"""
+
 # imports
 import os
 import json

@@ -1,5 +1,5 @@
 """
-Website summarizer using OpenAI.
+Website summarizer using OpenAI and the local scraper helpers.
 """
 
 import os

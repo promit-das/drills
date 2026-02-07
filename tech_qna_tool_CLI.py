@@ -1,6 +1,6 @@
 """
-Tool that takes a line of code (or a question about code) as input
-and responds with an explanation.
+CLI tool that takes a line of code (or a question about code) as input
+and responds with an explanation using OpenAI or Ollama.
 """
 
 import os
